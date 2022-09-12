@@ -1,5 +1,4 @@
 # Web-Mapping-Application-Project
-<h2> Introduction </h2>
 <h4> This project, inspired by Google Map, is a web mapping application from course CS61B in UC Berkeley. </h4>
 <h4> I worked with real-world mapping data and developed the back end (i.e. the web server that powers the API that the front end makes requests to) with Maven. </h4>
 <p> Users have access to the following features in the application:
