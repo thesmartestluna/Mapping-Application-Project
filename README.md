@@ -5,7 +5,7 @@
   <ul>
     <li> Searching for locations and finding out where the locations are on map </li>
       <p align="center">
-        <img src="https://github.com/thesmartestluna/web-mapping-application-project/blob/main/location-search.png" width = 500 title="location search">
+        <img src="https://github.com/thesmartestluna/Web-Mapping-Application-Project/blob/main/location%20search.png" title="location search">
       </p>
     <li> Finding the shortest path between two points and reading the driving directions for the given route </li>
       <p align="center">
