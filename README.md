@@ -1,6 +1,6 @@
 # Web-Mapping-Application-Project
-<p> This project, inspired by Google Map, is a web mapping application from course CS61B in UC Berkeley. </p>
-<p> I worked with real-world mapping data and developed the back end (i.e. the web server that powers the API that the front end makes requests to). </p>
+<h4> This project, inspired by Google Map, is a web mapping application from course CS61B in UC Berkeley. </h4>
+<h4> I worked with real-world mapping data and developed the back end (i.e. the web server that powers the API that the front end makes requests to) with Maven. </h4>
 <p> Users have access to the following features in the application:
   <ul>
     <li> Searching for locations and finding out where the locations are on map </li>
@@ -17,4 +17,13 @@
       </p>
     <li> Zooming in/out and dragging the map aorund to exlore </li>
    </ul>
+<h3> Backend Files Description </h3>
+   
+| Files | Description |
+| --- | --- |
+| Rasterer | Raster and render map images based on user's requested area and zoom level |
+| GraphDB | Build a graph representation with real-world data in Berkeley OSM and clean the graph; Implement autocompletion with Trie data structure |
+| GraphBuildingHandler | Handler used by SAX parser to parse Nodes and Ways from Berkeley OSM file |
+| Router | Use A* algorithm to find the shortest path between two points; Generate navigation directions based on the shortest path |
+   
     
