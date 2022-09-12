@@ -5,15 +5,15 @@
   <ul>
     <li> Searching for locations and finding out where the locations are on map </li>
       <p align="center">
-        <img src="https://github.com/thesmartestluna/Web-Mapping-Application-Project/blob/main/location%20search.png" title="location search">
+        <img src="https://github.com/thesmartestluna/Web-Mapping-Application-Project/blob/main/search.png" width = 700 title="location search">
       </p>
     <li> Finding the shortest path between two points and reading the driving directions for the given route </li>
       <p align="center">
-        <img src="https://github.com/thesmartestluna/web-mapping-application-project/blob/main/navigation.png" title="navigation">
+        <img src="https://github.com/thesmartestluna/web-mapping-application-project/blob/main/navigation.png" width = 700 title="navigation">
       </p>
     <li> Selecting autocompleted results in search box </li>
       <p align="center">
-        <img src="https://github.com/thesmartestluna/web-mapping-application-project/blob/main/autocomplete.png" title="autocomplete">
+        <img src="https://github.com/thesmartestluna/web-mapping-application-project/blob/main/autocomplete.png" width = 700 title="autocomplete">
       </p>
     <li> Zooming in/out and dragging the map aorund to exlore </li>
    </ul>
