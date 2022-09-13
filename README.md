@@ -18,7 +18,7 @@
     <li> Zooming in/out and dragging the map aorund to exlore </li>
    </ul>
 <h3> Backend Files Description </h3>
-   
+  <p> The following files could be found in src/main/java </p>
 | Files | Description |
 | --- | --- |
 | Rasterer | Raster and render map images based on user's requested area and zoom level |
