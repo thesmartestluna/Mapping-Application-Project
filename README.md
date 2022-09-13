@@ -25,5 +25,10 @@
 | GraphDB | Build a graph representation with real-world data in Berkeley OSM and clean the graph; Implement autocompletion with Trie data structure |
 | GraphBuildingHandler | Handler used by SAX parser to parse Nodes and Ways from Berkeley OSM file |
 | Router | Use A* algorithm to find the shortest path between two points; Generate navigation directions based on the shortest path |
+
+<h3> How to run </h3>
+<ol>
+  <li> Git clone this repository and library-sp18 folder (in CS61B skeleton folder), which contains Open Street Maps images and dataset </li>
+  <li> Run with IntelliJ/ Compile in terminal (build system: Maven)</li>
    
     
